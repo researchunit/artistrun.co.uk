@@ -13,27 +13,47 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/dist\/.gitignore",
+		"oAP": "\/docs\/.gitignore",
 		"oF": 1
 		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/dist\/CNAME",
+		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
-	"\/dist": {
-		"ft": 65536,
+	"\/src\/css\/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/dist",
-		"oF": 0
+		"oAP": "\/docs\/css\/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/css\/main.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/docs\/css\/main.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/src\/index.html": {
 		"cB": 1,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/dist\/index.html",
+		"oAP": "\/docs\/index.html",
 		"oF": 3
 		}
 	},
@@ -46,7 +66,7 @@
 	"displayValue": "artistrun.co.uk",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 544128529
+	"lastBuiltDate": 544131709
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -303,7 +323,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 1,
-	"buildFolderName": "dist",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2198,7 +2218,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/dist"
+	"websiteRelativeRoot": "\/docs"
 	},
 "settingsFileVersion": "3"
 }

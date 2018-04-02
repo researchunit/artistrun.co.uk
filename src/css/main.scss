@@ -1,1 +1,22 @@
+@mixin resize($point) {
+  @if $point == large {
+    @media (max-width: 1600px) { @content; }
+  }
+  @else if $point == mid {
+    @media (max-width: 1000px) { @content; }
+  }
+  @else if $point == small {
+    @media (max-width: 667px)  { @content; }
+  }
+}
+
+@import 'typography';
+@import 'navigation';
+@import 'slideshow';
 @import 'normalize';
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}

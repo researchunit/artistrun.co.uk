@@ -1,0 +1,23 @@
+#footer,
+#header {
+  position: absolute;
+  margin: 24px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.left {
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+  @include resize(mid) {
+    width: 110px;
+  }
+}
+
+.right {
+  display: inline-block;
+}

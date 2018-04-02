@@ -29,6 +29,13 @@
 		"oAP": "\/docs\/docs",
 		"oF": 0
 		},
+	"\/src\/beta.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/beta.html",
+		"oF": 0
+		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -182,7 +189,7 @@
 	"displayValue": "artistrun.co.uk",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 544131709
+	"lastBuiltDate": 544354580
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

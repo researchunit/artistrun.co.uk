@@ -16,6 +16,13 @@
 		"oAP": "\/docs\/.gitignore",
 		"oF": 1
 		},
+	"\/beta.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/beta.html",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -23,18 +30,41 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
+	"\/css\/_normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/docs\/css\/_normalize.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/docs\/css\/main.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/docs": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/docs\/docs",
 		"oF": 0
 		},
-	"\/index.html": {
-		"cB": 0,
-		"ft": 8192,
+	"\/js\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/docs\/index.html",
-		"oF": 0
+		"oAP": "\/docs\/js\/scripts.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/src\/beta.html": {
 		"cB": 0,

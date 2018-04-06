@@ -16,13 +16,6 @@
 		"oAP": "\/docs\/.gitignore",
 		"oF": 1
 		},
-	"\/beta.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/beta.html",
-		"oF": 0
-		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -30,41 +23,11 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
-	"\/css\/_normalize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/docs\/css\/_normalize.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/docs\/css\/main.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/docs": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/docs\/docs",
 		"oF": 0
-		},
-	"\/js\/scripts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/docs\/js\/scripts.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/src\/beta.html": {
 		"cB": 0,
@@ -74,8 +37,8 @@
 		"oF": 1
 		},
 	"\/src\/css\/_navigation.scss": {
-		"aP": 0,
-		"bl": 0,
+		"aP": 1,
+		"bl": 1,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -87,8 +50,8 @@
 		"uL": 1
 		},
 	"\/src\/css\/_normalize.scss": {
-		"aP": 0,
-		"bl": 0,
+		"aP": 1,
+		"bl": 1,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -100,8 +63,8 @@
 		"uL": 1
 		},
 	"\/src\/css\/_slideshow.scss": {
-		"aP": 0,
-		"bl": 0,
+		"aP": 1,
+		"bl": 1,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -113,8 +76,8 @@
 		"uL": 1
 		},
 	"\/src\/css\/_typography.scss": {
-		"aP": 0,
-		"bl": 0,
+		"aP": 1,
+		"bl": 1,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -147,17 +110,6 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/src\/img\/space-to-let-v2.png": {
-		"ft": 32768,
-		"iS": 654139,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v2.png",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"\/src\/img\/space-to-let-v2.svg": {
 		"ft": 2097152,
@@ -199,6 +151,26 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/src\/img\/space-to-let-v6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v6.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/space-to-let-v7.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v7.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/src\/index.html": {
 		"cB": 1,
 		"ft": 8192,
@@ -226,7 +198,7 @@
 	"displayValue": "artistrun.co.uk",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 544354580
+	"lastBuiltDate": 544710689
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

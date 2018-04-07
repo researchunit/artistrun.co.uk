@@ -1,1 +1,0 @@
-window.onload=function(){function e(){l[s].className="slide",s=(s+1)%l.length,l[s].className="slide showing"}var l=document.querySelectorAll("#slides .slide"),s=0,n=setInterval(e,600)};

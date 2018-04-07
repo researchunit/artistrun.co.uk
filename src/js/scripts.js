@@ -3,7 +3,7 @@
 window.onload = function() {
   var slides = document.querySelectorAll("#slides .slide");
   var currentSlide = 0;
-  var slideInterval = setInterval(nextSlide, 600);
+  var slideInterval = setInterval(nextSlide, 200);
 
   function nextSlide() {
     slides[currentSlide].className = 'slide';

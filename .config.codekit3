@@ -7,7 +7,7 @@
 		"uuidString": "62CA2AA3-7327-4EBA-B697-69A25996DE0B"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -19,9 +19,9 @@
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/docs\/CNAME",
-		"oF": 0
+		"oF": 1
 		},
 	"\/docs": {
 		"ft": 65536,
@@ -94,6 +94,100 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/src\/img\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2485,
+		"oA": 0,
+		"oAP": "\/docs\/img\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 5392,
+		"oA": 0,
+		"oAP": "\/docs\/img\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 2327,
+		"oA": 0,
+		"oAP": "\/docs\/img\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 562,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 794,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon.ico",
+		"oF": 0
+		},
+	"\/src\/img\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2584,
+		"oA": 0,
+		"oAP": "\/docs\/img\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/docs\/img\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/space-to-let-v1.png": {
+		"ft": 32768,
+		"iS": 53572,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/space-to-let-v1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -103,6 +197,17 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/src\/img\/space-to-let-v2.png": {
+		"ft": 32768,
+		"iS": 69798,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/img\/space-to-let-v2.svg": {
 		"ft": 2097152,
@@ -114,6 +219,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/src\/img\/space-to-let-v3.png": {
+		"ft": 32768,
+		"iS": 103980,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/space-to-let-v3.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -123,6 +239,17 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/src\/img\/space-to-let-v4.png": {
+		"ft": 32768,
+		"iS": 53983,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/img\/space-to-let-v4.svg": {
 		"ft": 2097152,
@@ -134,6 +261,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/src\/img\/space-to-let-v5.png": {
+		"ft": 32768,
+		"iS": 45227,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/space-to-let-v5.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -144,6 +282,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/src\/img\/space-to-let-v6.png": {
+		"ft": 32768,
+		"iS": 78259,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/space-to-let-v6.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -153,6 +302,17 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/src\/img\/space-to-let-v7.png": {
+		"ft": 32768,
+		"iS": 23749,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/img\/space-to-let-v7.svg": {
 		"ft": 2097152,
@@ -190,8 +350,9 @@
 	"creationDate": 544125526,
 	"displayValue": "artistrun.co.uk",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 544813793
+	"iconImageName": "\/src\/img\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 545073992
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1994,6 +2155,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

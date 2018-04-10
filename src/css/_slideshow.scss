@@ -21,7 +21,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
 }
 
 .slide {
@@ -29,17 +28,15 @@
   padding-bottom: 50px;
   height: 60vmin;
   opacity: 0;
-  overflow: hidden;
   @include resize(mid) {
+
   }
 }
 
 .showing {
   opacity: 1;
-  overflow: hidden;
 }
 
 img {
-  height: inherit !important;
-  overflow: hidden;
+  height: inherit;
 }

@@ -1,5 +1,3 @@
-// Slideshow
-
 window.onload = function() {
   var slides = document.querySelectorAll("#slides .slide");
   var currentSlide = 0;

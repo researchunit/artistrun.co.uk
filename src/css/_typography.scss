@@ -14,6 +14,7 @@ body {
   font-family: "Neutral Regular 2";
   text-transform: uppercase;
   font-size: 0.8em;
+  line-height: 1.45em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   letter-spacing: 0.02em;
@@ -28,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  border-bottom: 2px solid #ccff00;
 }
 
 #email a:hover {
@@ -37,6 +38,14 @@ a:hover {
 
 #header {
   font-size: 1.6em;
+}
+
+#header .left p {
+  border-bottom: 2px solid #ccff00;
+}
+
+#header .right p {
+  border-bottom: 2px solid #ccff00;
 }
 
 p {

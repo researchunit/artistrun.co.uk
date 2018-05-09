@@ -29,13 +29,6 @@
 		"oAP": "\/docs\/docs",
 		"oF": 0
 		},
-	"\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/index.html",
-		"oF": 0
-		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -114,7 +107,7 @@
 		},
 	"\/src\/img\/android-chrome-384x384.png": {
 		"ft": 32768,
-		"iS": 5392,
+		"iS": 4744,
 		"oA": 0,
 		"oAP": "\/docs\/img\/android-chrome-384x384.png",
 		"oF": 0,
@@ -136,7 +129,7 @@
 		},
 	"\/src\/img\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 562,
+		"iS": 542,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicon-16x16.png",
 		"oF": 0,
@@ -174,6 +167,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/src\/img\/openform.png": {
+		"ft": 32768,
+		"iS": 29803,
+		"oA": 0,
+		"oAP": "\/docs\/img\/openform.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/safari-pinned-tab.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -186,7 +190,7 @@
 		},
 	"\/src\/img\/space-to-let-v1.png": {
 		"ft": 32768,
-		"iS": 53572,
+		"iS": 33802,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v1.png",
 		"oF": 0,
@@ -195,64 +199,9 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/img\/space-to-let-v10.png": {
-		"ft": 32768,
-		"iS": 112050,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space-to-let-v11.png": {
-		"ft": 32768,
-		"iS": 193867,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v11.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space-to-let-v12.png": {
-		"ft": 32768,
-		"iS": 136135,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v12.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space-to-let-v13.png": {
-		"ft": 32768,
-		"iS": 71295,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v13.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space-to-let-v14.png": {
-		"ft": 32768,
-		"iS": 105859,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v14.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/src\/img\/space-to-let-v2.png": {
 		"ft": 32768,
-		"iS": 69798,
+		"iS": 50174,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v2.png",
 		"oF": 0,
@@ -263,7 +212,7 @@
 		},
 	"\/src\/img\/space-to-let-v3.png": {
 		"ft": 32768,
-		"iS": 103980,
+		"iS": 27878,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v3.png",
 		"oF": 0,
@@ -274,7 +223,7 @@
 		},
 	"\/src\/img\/space-to-let-v4.png": {
 		"ft": 32768,
-		"iS": 53983,
+		"iS": 38394,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v4.png",
 		"oF": 0,
@@ -285,7 +234,7 @@
 		},
 	"\/src\/img\/space-to-let-v5.png": {
 		"ft": 32768,
-		"iS": 45227,
+		"iS": 45266,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v5.png",
 		"oF": 0,
@@ -296,7 +245,7 @@
 		},
 	"\/src\/img\/space-to-let-v6.png": {
 		"ft": 32768,
-		"iS": 78259,
+		"iS": 25023,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v6.png",
 		"oF": 0,
@@ -307,7 +256,7 @@
 		},
 	"\/src\/img\/space-to-let-v7.png": {
 		"ft": 32768,
-		"iS": 23749,
+		"iS": 29407,
 		"oA": 0,
 		"oAP": "\/docs\/img\/space-to-let-v7.png",
 		"oF": 0,
@@ -316,37 +265,15 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/img\/space-to-let-v8.png": {
-		"ft": 32768,
-		"iS": 52604,
+	"\/src\/img\/space.jpg": {
+		"ft": 16384,
+		"iS": 366161,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v8.png",
+		"oAP": "\/docs\/img\/space.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space-to-let-v9.png": {
-		"ft": 32768,
-		"iS": 176540,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v9.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/img\/space.png": {
-		"ft": 32768,
-		"iS": 481085,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"\/src\/index.html": {
@@ -377,7 +304,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 546210996
+	"lastBuiltDate": 547590516
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

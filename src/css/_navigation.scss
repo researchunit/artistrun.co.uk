@@ -25,13 +25,45 @@
 
 .left {
   display: inline-block;
-  width: 200px;
+  margin-right: 100px;
   vertical-align: top;
   @include resize(mid) {
-    width: 110px;
+      margin-right: 22px;
   }
 }
 
 .right {
   display: inline-block;
+}
+
+#footer .right {
+  display: inline-block;
+  @include resize(small) {
+      width: 190px;
+  }
+}
+
+.right-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 57px;
+  margin: 24px;
+}
+
+.right-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-height: 57px;
+  margin: 24px;
+  z-index: 2;
+}
+
+.right-right a:hover {
+    border-bottom: none;
+}
+
+.right-right img {
+  max-height: 57px;
 }

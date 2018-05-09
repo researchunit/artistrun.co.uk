@@ -1,1 +1,11 @@
-window.onload=function(){function e(){l[s].className="slide",s=(s+1)%l.length,l[s].className="slide showing"}var l=document.querySelectorAll("#slides .slide"),s=0,n=setInterval(e,200)};
+window.onload = function() {
+  var slides = document.querySelectorAll("#slides .slide");
+  var currentSlide = 0;
+  var slideInterval = setInterval(nextSlide, 400);
+
+  function nextSlide() {
+    slides[currentSlide].className = 'slide';
+    currentSlide = (currentSlide + 1) % slides.length;
+    slides[currentSlide].className = 'slide showing';
+  }
+};

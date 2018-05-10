@@ -27,20 +27,20 @@
   display: inline-block;
   margin-right: 100px;
   vertical-align: top;
-  @include resize(mid) {
+  @include resize(small) {
       margin-right: 22px;
+  }
+}
+
+#footer .left {
+  @include resize(small) {
+    display: block;
+    padding-bottom: 15px;
   }
 }
 
 .right {
   display: inline-block;
-}
-
-#footer .right {
-  display: inline-block;
-  @include resize(small) {
-      width: 190px;
-  }
 }
 
 .right-right {

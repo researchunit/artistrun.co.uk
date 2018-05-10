@@ -23,11 +23,16 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
-	"\/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/docs\/docs",
-		"oF": 0
+	"\/img\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2485,
+		"oA": 0,
+		"oAP": "\/docs\/img\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
@@ -304,7 +309,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 547590516
+	"lastBuiltDate": 547679854
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

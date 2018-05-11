@@ -23,6 +23,22 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/docs\/css\/main.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
 	"\/img\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 2485,
@@ -33,6 +49,187 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 4744,
+		"oA": 0,
+		"oAP": "\/docs\/img\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 2327,
+		"oA": 0,
+		"oAP": "\/docs\/img\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 542,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 794,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2584,
+		"oA": 0,
+		"oAP": "\/docs\/img\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/openform.png": {
+		"ft": 32768,
+		"iS": 16051,
+		"oA": 0,
+		"oAP": "\/docs\/img\/openform.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/docs\/img\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/space-to-let-v1.png": {
+		"ft": 32768,
+		"iS": 17843,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v2.png": {
+		"ft": 32768,
+		"iS": 25964,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v3.png": {
+		"ft": 32768,
+		"iS": 14780,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v4.png": {
+		"ft": 32768,
+		"iS": 19325,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v5.png": {
+		"ft": 32768,
+		"iS": 22152,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v6.png": {
+		"ft": 32768,
+		"iS": 16318,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space-to-let-v7.png": {
+		"ft": 32768,
+		"iS": 14945,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space-to-let-v7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/space.jpg": {
+		"ft": 16384,
+		"iS": 365167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/docs\/img\/space.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/js\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/docs\/js\/scripts.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,

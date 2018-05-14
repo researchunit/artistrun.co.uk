@@ -8,17 +8,10 @@
 .slide {
   position: fixed;
   padding-bottom: 50px;
-  height: 60vmin;
-  opacity: 0;
-  @include resize(mid) {}
-}
-
-.showing {
-  opacity: 1;
-}
-
-.overlay {
-  display: none;
+  height: 74vmin;
+  @include resize(small) {
+      height: 90vmin;
+  }
 }
 
 #slides:hover .overlay {

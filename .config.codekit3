@@ -29,14 +29,6 @@
 		"oAP": "\/docs\/docs",
 		"oF": 0
 		},
-	"\/img\/poster.gif": {
-		"ft": 4194304,
-		"iS": 64903,
-		"oA": 0,
-		"oAP": "\/docs\/img\/poster.gif",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -185,14 +177,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/src\/img\/poster.gif": {
-		"ft": 4194304,
-		"iS": 66455,
-		"oA": 0,
-		"oAP": "\/docs\/img\/poster.gif",
-		"oF": 0,
-		"opt": 1
 		},
 	"\/src\/img\/safari-pinned-tab.svg": {
 		"ft": 2097152,

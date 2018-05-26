@@ -23,49 +23,18 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 1
 		},
-	"\/img\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 2327,
-		"oA": 0,
-		"oAP": "\/docs\/img\/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
 		},
-	"\/img\/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 794,
+	"\/src\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/img\/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 2584,
-		"oA": 0,
-		"oAP": "\/docs\/img\/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/space-to-let-v4.png": {
-		"ft": 32768,
-		"iS": 19325,
-		"oA": 0,
-		"oAP": "\/docs\/img\/space-to-let-v4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/docs\/CNAME",
+		"oF": 0
 		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
@@ -216,6 +185,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/src\/img\/poster.gif": {
+		"ft": 4194304,
+		"iS": 66455,
+		"oA": 0,
+		"oAP": "\/docs\/img\/poster.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/src\/img\/safari-pinned-tab.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -342,7 +319,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 548023265
+	"lastBuiltDate": 549057562
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

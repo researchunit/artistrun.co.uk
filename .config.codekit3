@@ -312,7 +312,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 549059290
+	"lastBuiltDate": 549104154
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1708,7 +1708,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -2229,8 +2229,8 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
 		"useLibsass": 1
 		},
 	"languageDefaultsSLIM": {

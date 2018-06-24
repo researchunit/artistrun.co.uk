@@ -1,21 +1,29 @@
 @mixin resize($point) {
   @if $point == large {
-    @media (max-width: 1600px) { @content; }
-  }
-  @else if $point == mid {
-    @media (max-width: 1000px) { @content; }
-  }
-  @else if $point == small {
-    @media (max-width: 667px)  { @content; }
+    @media (max-width: 1600px) {
+      @content;
+    }
+  } @else 
+  if $point == mid {
+    @media (max-width: 1000px) {
+      @content;
+    }
+  } @else 
+  if $point == small {
+    @media (max-width: 667px) {
+      @content;
+    }
   }
 }
-
+@import 'normalize';
 @import 'typography';
 @import 'navigation';
 @import 'slideshow';
-@import 'normalize';
+@import 'form';
 
-*, *:before, *:after {
+*,
+*:after,
+*:before {
   box-sizing: border-box;
 }
 

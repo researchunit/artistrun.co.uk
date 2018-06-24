@@ -1,12 +1,18 @@
 @mixin resize($point) {
   @if $point == large {
-    @media (max-width: 1600px) { @content; }
-  }
-  @else if $point == mid {
-    @media (max-width: 1000px) { @content; }
-  }
-  @else if $point == small {
-    @media (max-width: 667px)  { @content; }
+    @media (max-width: 1600px) {
+      @content;
+    }
+  } @else 
+  if $point == mid {
+    @media (max-width: 1000px) {
+      @content;
+    }
+  } @else 
+  if $point == small {
+    @media (max-width: 667px) {
+      @content;
+    }
   }
 }
 
@@ -28,8 +34,14 @@
   margin-right: 100px;
   vertical-align: top;
   @include resize(small) {
-      margin-right: 22px;
+    margin-right: 22px;
   }
+}
+
+#footer .right {
+  position: fixed;
+  bottom: 22px;
+  right: 22px;
 }
 
 #footer .left {
@@ -61,7 +73,7 @@
 }
 
 .right-right a:hover {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 .right-right img {

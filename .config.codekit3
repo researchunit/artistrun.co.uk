@@ -29,6 +29,19 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 0
 		},
+	"\/src\/css\/_form.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/docs\/css\/_form.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -300,6 +313,13 @@
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/src\/residency.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/residency.html",
+		"oF": 0
 		}
 	},
 "hooks": [

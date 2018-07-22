@@ -1,21 +1,5 @@
-@mixin resize($point) {
-  @if $point == large {
-    @media (max-width: 1600px) {
-      @content;
-    }
-  } @else 
-  if $point == mid {
-    @media (max-width: 1000px) {
-      @content;
-    }
-  } @else 
-  if $point == small {
-    @media (max-width: 667px) {
-      @content;
-    }
-  }
-}
-
+.cognito .c-label,
+.cognito .c-label label,
 body {
   font-family: "Neutral Regular 2";
   text-transform: uppercase;
@@ -26,11 +10,16 @@ body {
   letter-spacing: 0.02em;
   @include resize(small) {
     font-size: 0.7em;
+    line-height: 1.45em;
   }
 }
 
 .residency-form {
   text-transform: none;
+}
+
+.residency-form p {
+  margin-left: 8px;
 }
 
 a {
@@ -39,7 +28,7 @@ a {
 }
 
 a:hover {
-  border-bottom: 2px solid #ccff00;
+  border-bottom: 1px solid black;
 }
 
 #email a:hover {
@@ -47,18 +36,29 @@ a:hover {
 }
 
 #header {
-  font-size: 1.6em;
+  font-size: 1.5em;
+  @include resize(small) {
+    font-size: 1.2em;
+    line-height: 1.45em;
+  }
 }
 
-#header .left p {
-  border-bottom: 2px solid #ccff00;
+.title {
+  border-bottom: 1px solid black;
 }
 
-#header .right p {
-  border-bottom: 2px solid #ccff00;
+.ticker__list a:hover {
+  border-bottom: 4px solid black;
 }
 
 p {
   padding-top: 3px;
   margin: 0;
+}
+
+.cognito .c-label,
+.cognito .c-label label {
+  text-transform: capitalize;
+  font-weight: normal;
+  font-size: 1em;
 }

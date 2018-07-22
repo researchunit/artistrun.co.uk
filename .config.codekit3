@@ -81,19 +81,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/src\/css\/main.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/docs\/css\/main.css",
-		"oF": 1,
-		"oS": 3,
-		"uL": 1
-		},
 	"\/src\/img\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 2485,
@@ -283,13 +270,6 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
-		},
-	"\/src\/index.html": {
-		"cB": 1,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/index.html",
-		"oF": 3
 		},
 	"\/src\/js\/scripts.js": {
 		"ft": 64,

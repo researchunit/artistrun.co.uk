@@ -29,19 +29,6 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 0
 		},
-	"\/src\/css\/_navigation.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/docs\/css\/_navigation.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/src\/css\/_normalize.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -65,32 +52,6 @@
 		"oA": 1,
 		"oAP": "\/docs\/css\/_slideshow.css",
 		"oF": 1,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/src\/css\/_typography.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/docs\/css\/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/src\/css\/main.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/docs\/css\/main.css",
-		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -283,13 +244,6 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
-		},
-	"\/src\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/index.html",
-		"oF": 0
 		},
 	"\/src\/js\/scripts.js": {
 		"ft": 64,

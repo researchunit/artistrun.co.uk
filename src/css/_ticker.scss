@@ -15,7 +15,7 @@
   display: flex;
   height: 100%;
   margin-top: 20px;
-  animation: ticker 6s infinite linear;
+  animation: ticker 90s infinite linear;
 }
 
 .ticker:hover .ticker__list {
@@ -24,10 +24,10 @@
 
 .ticker__item {
   margin-right: 20px;
-  width: 2600px;
-  font-size: 9em;
+  width: 880px;
+  font-size: 3em;
   @include resize(small) {
-    width: 2300px;
+    font-size: 3.4em;
   }
 }
 @-moz-keyframes ticker {

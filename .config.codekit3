@@ -29,6 +29,19 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 0
 		},
+	"\/src\/css\/_form.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/docs\/css\/_form.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/css\/_navigation.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -68,6 +81,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/css\/_ticker.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/docs\/css\/_ticker.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/css\/_typography.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -91,7 +117,11 @@
 		"oA": 0,
 		"oAP": "\/docs\/css\/main.css",
 		"oF": 0,
+<<<<<<< HEAD
 		"oS": 0,
+=======
+		"oS": 3,
+>>>>>>> form
 		"uL": 1
 		},
 	"\/src\/img\/android-chrome-192x192.png": {
@@ -291,15 +321,28 @@
 		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
-	"\/src\/js\/scripts.js": {
+	"\/src\/js\/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
+<<<<<<< HEAD
 		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
 		"sC": 1,
+=======
+		"oAP": "\/docs\/js\/main.js",
+		"oF": 0,
+		"sC": 0,
+>>>>>>> form
 		"tS": 0
+		},
+	"\/src\/residency.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/residency.html",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -312,7 +355,11 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
+<<<<<<< HEAD
 	"lastBuiltDate": 551554165
+=======
+	"lastBuiltDate": 554067728
+>>>>>>> form
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

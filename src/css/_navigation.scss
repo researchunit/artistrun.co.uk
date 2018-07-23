@@ -1,69 +1,53 @@
-@mixin resize($point) {
-  @if $point == large {
-    @media (max-width: 1600px) { @content; }
-  }
-  @else if $point == mid {
-    @media (max-width: 1000px) { @content; }
-  }
-  @else if $point == small {
-    @media (max-width: 667px)  { @content; }
-  }
-}
-
 #footer,
 #header {
-  position: absolute;
+  position: fixed;
   padding: 24px;
-  z-index: 1;
   width: 100%;
 }
 
+#header {
+  z-index: 2;
+  top: 0;
+  background: #fbf7ee;
+}
+
 #footer {
-  position: absolute;
   bottom: 0;
+  background: #fbf7ee;
+  @include resize(small) {
+    z-index: 2;
+  }
+}
+
+.left,
+.right,
+.title {
+  display: inline-block;
 }
 
 .left {
-  display: inline-block;
   margin-right: 100px;
   vertical-align: top;
   @include resize(small) {
-      margin-right: 22px;
+    margin-right: 22px;
   }
 }
 
-#footer .left {
+#footer .right {
+  position: fixed;
+  margin-right: 28px;
+  right: 0;
+  bottom: 48px;
   @include resize(small) {
-    display: block;
-    padding-bottom: 15px;
+    bottom: 0;
+    top: 25px;
+    font-size: 1.2em;
   }
 }
 
-.right {
-  display: inline-block;
-}
-
-.right-right {
-  position: absolute;
-  bottom: 0;
+#footer .rightform {
+  position: fixed;
+  margin-right: 28px;
   right: 0;
-  height: 57px;
-  margin: 24px;
-}
-
-.right-right {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  max-height: 57px;
-  margin: 24px;
-  z-index: 2;
-}
-
-.right-right a:hover {
-    border-bottom: none;
-}
-
-.right-right img {
-  max-height: 57px;
+  bottom: 48px;
 }

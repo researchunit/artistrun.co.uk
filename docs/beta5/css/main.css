@@ -469,8 +469,8 @@ img {
   display: flex;
   height: 100%;
   margin-top: 20px;
-  -webkit-animation: ticker 140s infinite linear;
-          animation: ticker 140s infinite linear; }
+  -webkit-animation: ticker 160s infinite linear;
+          animation: ticker 160s infinite linear; }
 
 .ticker:hover .ticker__list {
   -webkit-animation-play-state: paused;

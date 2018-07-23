@@ -1,4 +1,2 @@
-
-*.codekit3
-*.codekit3
-*.codekit3
+*
+!.gitignore

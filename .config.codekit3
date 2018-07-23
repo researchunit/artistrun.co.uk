@@ -117,7 +117,7 @@
 		"oA": 0,
 		"oAP": "\/docs\/css\/main.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/src\/img\/android-chrome-192x192.png": {
@@ -345,7 +345,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/src\/img\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 554067326
+	"lastBuiltDate": 554067728
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

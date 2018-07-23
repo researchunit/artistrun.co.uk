@@ -1,0 +1,37 @@
+@mixin resize($point) {
+  @if $point == large {
+    @media (max-width: 1600px) {
+      @content;
+    }
+  } @else 
+  if $point == mid {
+    @media (max-width: 1000px) {
+      @content;
+    }
+  } @else 
+  if $point == small {
+    @media (max-width: 700px) {
+      @content;
+    }
+  }
+}
+@import 'normalize';
+@import 'typography';
+@import 'navigation';
+@import 'slideshow';
+@import 'form';
+@import 'ticker';
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background: #fbf7ee;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}

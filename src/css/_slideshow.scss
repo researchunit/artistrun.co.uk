@@ -9,9 +9,6 @@
 .slide {
   position: fixed;
   height: 74vmin;
-  @include resize(small) {
-      height: 90vmin;
-  }
 }
 
 #slides:hover .overlay {
@@ -23,7 +20,7 @@
 }
 
 #slides:hover .showing {
-display: none;
+  display: none;
 }
 
 img {

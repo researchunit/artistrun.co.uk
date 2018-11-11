@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 	// First real dialog starts around 1:47
-	const source = 'https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd';
+	const source = 'https://github.com/researchunit/artistrun.co.uk/blob/Video/src/video/test.mp4';
 	// For more dash options, see https://github.com/Dash-Industry-Forum/dash.js
 
 	const dash = dashjs.MediaPlayer().create();

@@ -1,2 +1,10 @@
-*
-!.gitignore
+
+*.codekit3
+<<<<<<< HEAD
+*.codekit3
+*.codekit3
+=======
+.config.codekit3
+>>>>>>> form
+*.codekit3
+*.codekit3

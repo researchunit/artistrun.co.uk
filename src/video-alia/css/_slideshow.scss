@@ -1,0 +1,28 @@
+#slides {
+  height: 100%;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide {
+  position: fixed;
+  height: 74vmin;
+}
+
+#slides:hover .overlay {
+  padding-bottom: 50px;
+  height: 60vmin;
+  background: white;
+  display: inline-block;
+  z-index: 1;
+}
+
+#slides:hover .showing {
+  display: none;
+}
+
+img {
+  height: inherit;
+}

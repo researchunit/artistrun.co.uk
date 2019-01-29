@@ -1,5 +1,3 @@
-var ticker = document.querySelector('.ticker')
-  , list = document.querySelector('.ticker__list')
-  , clone = list.cloneNode(true)
-
-ticker.append(clone)
+// Change the second argument to your options:
+// https://github.com/sampotts/plyr/#options
+const player = new Plyr('video', {playsinline: true, autoplay: true, controls: [""], loop: { active: true }});

@@ -324,11 +324,17 @@ a {
   color: black;
   text-decoration: none; }
 
-a:hover {
+h1,
+h2,
+h3,
+p a:hover {
   border-bottom: 1px solid black; }
 
 #email a:hover {
   cursor: help; }
+
+#header a:hover {
+  border-bottom: 1px solid black; }
 
 #header {
   font-size: 1.5em; }
@@ -444,49 +450,17 @@ img {
     .title {
       margin-left: 60px; } }
 
-.wrapper {
-  overflow: hidden;
+.container {
   height: 100%;
-  position: relative; }
-
-.ticker {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  display: flex; }
-
-.ticker__list {
+  margin: auto;
+  max-width: 70%;
+  padding-bottom: 30px;
   display: flex;
-  height: 100%;
-  margin-top: 20px;
-  animation: ticker 160s infinite linear; }
+  align-items: center;
+  justify-content: center; }
 
-.ticker:hover .ticker__list {
-  animation-play-state: paused; }
-
-.ticker__item {
-  margin-right: 20px;
-  width: 880px;
-  font-size: 3em; }
-  @media (max-width: 700px) {
-    .ticker__item {
-      font-size: 3.4em; } }
-
-@-moz-keyframes ticker {
-  100% {
-    transform: translateX(-100%); } }
-
-@-webkit-keyframes ticker {
-  100% {
-    transform: translateX(-100%); } }
-
-@-o-keyframes ticker {
-  100% {
-    transform: translateX(-100%); } }
-
-@keyframes ticker {
-  100% {
-    transform: translateX(-100%); } }
+video {
+  width: 100%; }
 
 *,
 *:after,
